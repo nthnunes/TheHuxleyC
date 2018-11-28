@@ -10,14 +10,14 @@ float main(){
   
   if(N1>M){
     cont = cont + 1;
-  }
+    }
   if(N2>M){
     cont = cont + 1;
-  }
+    }
   if(N3>M){
     cont = cont + 1;
-  }
+    }
   
   printf("%d", cont);
 
-  return 0;}
+return 0;}
