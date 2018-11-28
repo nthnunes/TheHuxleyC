@@ -22,4 +22,4 @@ int main(){
   scanf("%f %i", &m, &f);
   ClassificaAluno(m, f);
   
-  return 0;}
+return 0;}
