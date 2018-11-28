@@ -3,7 +3,7 @@
 int main() {
   int a, b, c, R;
   
-  scanf("%d %d %d",&a,&b,&c);
+  scanf("%d %d %d", &a, &b, &c);
   R = a;
   
   while(b>R){
