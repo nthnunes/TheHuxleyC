@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 float main(){
-    double N1, N2, N3, M;
-    int cont=0;
+  double N1, N2, N3, M;
+  int cont=0;
     
   scanf("%lf %lf%lf", &N1, &N2, &N3);
   
