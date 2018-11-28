@@ -6,10 +6,11 @@ int main() {
   scanf ("%f", &D);
   scanf ("%f", &KM);
   
-  R=KM/D;
+  R = KM/D;
   
   if (R<=100/1){
     printf ("%.2f", D*90);}
   if (R>100/1){
     printf ("%.2f" ,(((D*90)+(((R-100)*D)*12))));}
+  
 return 0;}
