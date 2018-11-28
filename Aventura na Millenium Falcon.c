@@ -27,6 +27,6 @@ int main(){
       printf("Nao pode atravessar\n");
       }
     }
-  }while(n != -1);
+  }while(n!=-1);
 
 return 0;}
