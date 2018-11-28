@@ -29,7 +29,6 @@ int main(){
     if(c83 > c93){
       printf("83\n");
       }
-
     else if(c93 > c83){
       printf("93\n");
       }
