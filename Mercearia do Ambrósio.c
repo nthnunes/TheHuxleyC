@@ -30,7 +30,7 @@ int main(){
       printf("R$ %.2f", T*0.85);}
     else if (Y>=15){
       printf("R$ %.2f", T*0.85);}
-      else{
+    else{
         printf("R$ %.2f", T);}}
         
   if(X==4){
